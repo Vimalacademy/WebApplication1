@@ -1,0 +1,28 @@
+﻿ills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+#animated-element {
+    font-size: 24px;
+    color: #ff5733;
+    margin-top: 20px;
+    transition: transform 1s;
+}
